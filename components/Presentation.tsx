@@ -2,8 +2,7 @@ import React from "react";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import MagicButton from "./ui/MagicButton";
-import { FaGithub, FaLinkedin, FaLocationArrow } from "react-icons/fa6";
-import { CiMail } from "react-icons/ci";
+import { FaGithub, FaLinkedin } from "react-icons/fa6";
 import { IoMdMail } from "react-icons/io";
 import { Cover } from "./ui/Cover";
 

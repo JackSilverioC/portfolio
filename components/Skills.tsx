@@ -1,5 +1,4 @@
 import React from "react";
-import SkillDataProvider from "./ui/SkillDataProvider";
 import { skills, skills_2, skills_3 } from "@/data";
 import { AnimatedTooltip } from "./ui/Animated-tooltip";
 
