@@ -4,7 +4,7 @@ import React, { useEffect, useId, useRef, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { useOutsideClick } from "@/hooks/use-outside-click";
 
-export function ExpandableCardDemo() {
+export const ExpandableCardDemo = () => {
   const [active, setActive] = useState<(typeof cards)[number] | boolean | null>(
     null
   );
@@ -160,7 +160,7 @@ export function ExpandableCardDemo() {
       </ul>
     </>
   );
-}
+};
 
 export const CloseIcon = () => {
   return (
