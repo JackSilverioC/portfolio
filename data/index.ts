@@ -302,7 +302,7 @@ export const skills = [
   {
     id: 4,
     name: "Grafana",
-    img: "/Grafana.png"
+    img: "/grafana.png"
   },
   {
     id: 5,

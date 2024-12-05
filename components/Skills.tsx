@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { skills, skills_2, skills_3 } from "@/data";
 import { AnimatedTooltip } from "./ui/Animated-tooltip";
